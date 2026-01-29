@@ -1,0 +1,7 @@
+.hero {
+    background: radial-gradient(circle at 70% 50%, #2c2c2c 0%, $negro-fondo 70%);
+    min-height: 80vh;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+}

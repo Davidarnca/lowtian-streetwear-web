@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: $negro-fondo;
+    font-family: $fuente-montserrat;
+    color: $blanco;
+    line-height: 1.6;
+}
